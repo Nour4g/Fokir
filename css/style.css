@@ -5,6 +5,10 @@ body {
     margin: 0;
 }
 
+html , body {
+  scroll-behavior: smooth;
+}
+
 /*                    Cont Home              */
 
 .cont-home {
